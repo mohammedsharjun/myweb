@@ -91,7 +91,7 @@ nav img{
     display: flex;
     align-items: flex-end;
     justify-content: space-between;
-    padding-bottom: 2.5vw;
+    padding-bottom: 1vw;
 }
 
 #left h3{
@@ -137,7 +137,6 @@ nav img{
 .card {
     width: 80px;
     border-radius: 2rem;
-    background-position: center;
     background-size: cover;
     cursor: pointer;
     overflow: hidden;
@@ -201,22 +200,22 @@ input:checked + label .description {
 }
   
 label[for="c1"] {
-    background-image: url('./undraw_nuxt_js_0fq9.png');
+    background-image: url('./Browse\ thousands\ of\ Fitness\ Website\ Fitnation\ images\ for\ design\ inspiration.jpeg');
 }
   
 label[for="c2"] {
-    background-image: url('.');
+    background-image: url('./E-Learning\ Platform\ Website\ \(1\)_jpg\ by\ Usarion\ _\ UI_UX\ Design\ Agency.jpeg');
 }
   
 label[for="c3"] {
-    background-image: url('./html.jpeg');
+    background-image: url('./Data\ Security\ Company\ Landing\ Page.jpeg');
 }
   
 label[for="c4"] {
-    background-image: url('./html.jpeg');
+    background-image: url('./mm.jpeg');
 }
  
 label[for="c5"] {
-    background-image: url('./html.jpeg');
+    background-image: url('./crypto\ Currency\ landing\ page\ ideas\ Ux\ Design\ By\ Mateen.jpeg');
 }
 
